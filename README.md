@@ -1,19 +1,20 @@
 # 👨‍💻 Eduardo Lopes Barros dos Santos ⚙️
 
-**`Desenvolvedor Front-end e começando no beck 🍃`**
+**`Desenvolvedor Front-end e Inciando no Back-end`**
 
 ---
 
-Me chamo Eduardo e tenho 18 anos. No momento estou cursando engenharia de software na Uni-brasil. Estou na jornada de aprender cada vez mais no mundo da programação. Nesse perfil espero postar não muitos, mais varios dos meus futuros projetos.
+Olá! Meu nome é Eduardo Lopes e eu sou desenvolvedor Front-end. Estou fazendo graduação em Engenharia de Software na instituição UniBrasil.
+Meu objetivo é aprender cada dia mais, pois o conhecimento é uma arma muito poderosa. Gosto de trabalhar com coisas que tenham que se pensar, e principalmente pensar fora da caixa.
 
 ---
 
-### Linguagens 🤓☝️
+### Linguagens:
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="HTML 5"
+    title="HTML 5"
     width=33px
     style="padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
@@ -21,7 +22,8 @@ Me chamo Eduardo e tenho 18 anos. No momento estou cursando engenharia de softwa
 
 <img
     align="left"
-    title="Css"
+    alt="CSS 3"
+    title="CSS 3"
     width=32px
     style="padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
@@ -29,7 +31,8 @@ Me chamo Eduardo e tenho 18 anos. No momento estou cursando engenharia de softwa
 
 <img
     align="left"
-    title="Css"
+    alt="JavaScript"
+    title="JavaScript"
     width=32px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -41,21 +44,10 @@ Me chamo Eduardo e tenho 18 anos. No momento estou cursando engenharia de softwa
 ---
 
 ### Estatisticas 🌐
-
----
-
 <br/>
-
 <img 
     align="left"
     alt="Github Stats"
-    height="220"
-    src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img 
-    align="right"
-    alt="Github Stats"
-    height="170"
+    height="190"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
