@@ -4,8 +4,7 @@
 
 ---
 
-Olá! Meu nome é Eduardo Lopes e eu sou desenvolvedor Front-end. Estou fazendo graduação em Engenharia de Software na instituição UniBrasil.
-Meu objetivo é aprender cada dia mais, pois o conhecimento é uma arma muito poderosa. Gosto de trabalhar com coisas que tenham que se pensar, e principalmente pensar fora da caixa.
+Olá, meu nome é Eduardo Lopes e sou desenvolvedor front-end. Atualmente estou cursando a graduação de Engenharia de Software e aprendendo mais deste mundo tecnológico.
 
 ---
 
@@ -37,6 +36,16 @@ Meu objetivo é aprender cada dia mais, pois o conhecimento é uma arma muito po
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
+
+<img
+    align="left"
+    alt="CSharp"
+    title="Csharp"
+    width=32px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+          
           
 <br/>
 <br/>
