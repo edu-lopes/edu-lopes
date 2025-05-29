@@ -59,4 +59,5 @@ Olá, meu nome é Eduardo Lopes e sou desenvolvedor front-end. Atualmente estou 
     alt="Github Stats"
     height="190"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+    background-color: #ffffff
 />
