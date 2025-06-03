@@ -1,6 +1,6 @@
 # 👨‍💻 Eduardo Lopes Barros dos Santos ⚙️
 
-**`Front-end Developer | Beginning in Back-end`**
+***`Front-end Developer | Beginning in Back-end`***
 
 ---
 
