@@ -40,7 +40,7 @@ Olá, meu nome é Eduardo Lopes e sou desenvolvedor front-end. Atualmente estou 
 <img
     align="left"
     alt="CSharp"
-    title="Csharp"
+    title="CSharp"
     width=32px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
