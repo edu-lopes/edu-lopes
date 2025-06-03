@@ -1,10 +1,10 @@
-# 👨‍💻 Eduardo Lopes Barros dos Santos ⚙️
+# Eduardo Lopes Barros dos Santos ⚙️
 
-**`Desenvolvedor Front-end e Inciando no Back-end`**
+**`Front-end Developer | Beginning in Back-end`**
 
 ---
 
-Olá, meu nome é Eduardo Lopes e sou desenvolvedor front-end. Atualmente estou cursando a graduação de Engenharia de Software e aprendendo mais deste mundo tecnológico.
+Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate about creating intuitive and functional digital experiences. I’m currently pursuing a degree in Software Engineering and expanding my knowledge in back-end development, aiming to become a well-rounded professional in the tech world.
 
 ---
 
