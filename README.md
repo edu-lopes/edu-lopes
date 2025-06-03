@@ -48,6 +48,15 @@ Olá, meu nome é Eduardo Lopes e sou desenvolvedor front-end. Atualmente estou 
 
 <img
     align="left"
+    alt="MySQL"
+    title="MySQL"
+    width=32px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+    align="left"
     alt="Canva"
     title="Canva"
     width=32px
