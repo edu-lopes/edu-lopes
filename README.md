@@ -45,6 +45,15 @@ Olá, meu nome é Eduardo Lopes e sou desenvolvedor front-end. Atualmente estou 
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
+
+<img
+    align="left"
+    alt="Canva"
+    title="Canva"
+    width=32px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
+/>
           
           
 <br/>
