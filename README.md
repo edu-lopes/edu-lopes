@@ -61,7 +61,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
 
 ---
 
-### Estatisticas 🌐
+### Estatisticas
 <br/>
 <img 
     align="left"
