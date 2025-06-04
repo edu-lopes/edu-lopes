@@ -63,6 +63,6 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
 
 ### Estatisticas
 <br/>
-## 📊 Linguagens mais usadas
-
+![Metrics](https://metrics.lecoq.io/edu-lopes?template=classic&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=America%2FSao_Paulo)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=graywhite)
