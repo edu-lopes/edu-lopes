@@ -67,6 +67,6 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="Github Stats"
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&theme=vue&layout=compact&custom_title=Tecnologias&langs_count=4"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&theme=graywhite&layout=compact&custom_title=Tecnologias&langs_count=4"
     background-color: #ffffff
 />
