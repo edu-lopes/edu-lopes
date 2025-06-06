@@ -63,5 +63,3 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
 
 ### Estatisticas
 <br/>
-
-![Metrics](https://metrics.lecoq.io/edu-lopes)
