@@ -54,7 +54,24 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
-          
+
+<img
+    align="left"
+    alt="VsCode"
+    title="VsCode"
+    width=32px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Visual Studio"
+    title="Visual Studio"
+    width=32px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+/>
           
 <br/>
 <br/>
