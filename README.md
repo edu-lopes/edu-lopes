@@ -64,4 +64,3 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
 ### Estatisticas
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu-lopes)](https://github.com/edu-lopes/github-readme-stats)
