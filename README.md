@@ -77,7 +77,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="Visual Studio"
     title="Visual Studio"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
 />
