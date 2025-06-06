@@ -66,6 +66,15 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
 
 <img
     align="left"
+    alt="Git"
+    title="Git"
+    width=38px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+    align="left"
     alt="VsCode"
     title="VsCode"
     width=38px
