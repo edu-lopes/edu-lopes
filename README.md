@@ -43,7 +43,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     title="NodeJS"
     width=38px
     style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
 <img
