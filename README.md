@@ -8,7 +8,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
 
 ---
 
-### Linguagens:
+### Linguagens e Ferramentas:
 
 <img
     align="left"
@@ -35,6 +35,15 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     width=32px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+    align="left"
+    alt="NodeJS"
+    title="NodeJS"
+    width=32px
+    style="padding-rigth: 10px;"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 
 <img
