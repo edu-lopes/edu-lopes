@@ -14,7 +14,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="HTML 5"
     title="HTML 5"
-    width=33px
+    width=38px
     style="padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
@@ -23,7 +23,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="CSS 3"
     title="CSS 3"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
@@ -32,7 +32,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="JavaScript"
     title="JavaScript"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
@@ -41,7 +41,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="NodeJS"
     title="NodeJS"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
@@ -50,7 +50,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="CSharp"
     title="CSharp"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
@@ -59,7 +59,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="MySQL"
     title="MySQL"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
@@ -68,7 +68,7 @@ Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate abou
     align="left"
     alt="VsCode"
     title="VsCode"
-    width=32px
+    width=38px
     style="padding-rigth: 10px;"
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
