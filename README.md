@@ -1,100 +1,56 @@
-# 👨‍💻 Eduardo Lopes Barros dos Santos ⚙️
+# 👨‍💻 Eduardo Lopes Barros dos Santos
 
-***`Front-end Developer | Beginning in Back-end`***
-
----
-
-Hello! My name is Eduardo Lopes, and I’m a front-end developer passionate about creating intuitive and functional digital experiences. I’m currently pursuing a degree in Software Engineering and expanding my knowledge in back-end development, aiming to become a well-rounded professional in the tech world.
+### *Front-end Developer | Exploring the Back-end World*
 
 ---
 
-### Linguagens e Ferramentas:
-
-<img
-    align="left"
-    alt="HTML 5"
-    title="HTML 5"
-    width=38px
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-
-<img
-    align="left"
-    alt="CSS 3"
-    title="CSS 3"
-    width=38px
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
-
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img
-    align="left"
-    alt="NodeJS"
-    title="NodeJS"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-
-<img
-    align="left"
-    alt="CSharp"
-    title="CSharp"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-    align="left"
-    alt="VsCode"
-    title="VsCode"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Visual Studio"
-    title="Visual Studio"
-    width=38px
-    style="padding-rigth: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
-/>
-          
-<br/>
-<br/>
+👋 **Hello!**  
+I’m Eduardo Lopes, a front-end developer passionate about crafting intuitive and functional digital experiences.  
+Currently pursuing a degree in **Software Engineering**, I’m also deepening my knowledge in **back-end development** with the goal of becoming a **full-stack developer**.
 
 ---
 
-### Estatisticas
-<br/>
+## 🛠️ Skills & Tools
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardolbsantos&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolbsantos&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🚀 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardolbsantos)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+---
+
+✨ *"Coding is not just about solving problems — it's about creating possibilities."*
