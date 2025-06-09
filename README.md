@@ -40,16 +40,28 @@ Currently pursuing a degree in **Software Engineering**, I’m also deepening my
 
 <p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edu-lopes&theme=blood&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🚀 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edu-lopes)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardolbs07@gmail.com)
-<img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=gruvbox&hide_border=true" width="48%" />
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:eduardolbs07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/edu-lopes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/edu.lope_s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 
 ---
 
