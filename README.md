@@ -40,7 +40,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edu-lopes/edu-lopes/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/edu-lopes/edu-lopes/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
