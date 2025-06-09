@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Lopes Barros dos Santos
+# 👨‍💻 Eduardo Lopes Barros dos Santos ⚙️
 
 ### *Front-end Developer | Exploring the Back-end World*
 
