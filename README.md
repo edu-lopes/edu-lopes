@@ -41,7 +41,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=tokyonight-light&hide_border=true" />
 </p>
 
 ---
