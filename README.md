@@ -39,8 +39,7 @@ Currently pursuing a degree in **Software Engineering**, I’m also deepening my
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=default" width="48%" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edu-lopes&theme=blood&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </p>
 
 ---
@@ -49,6 +48,8 @@ Currently pursuing a degree in **Software Engineering**, I’m also deepening my
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edu-lopes)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardolbs07@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=gruvbox&hide_border=true" width="48%" />
 
 ---
 
