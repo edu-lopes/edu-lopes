@@ -46,20 +46,4 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:eduardolbs07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/edu-lopes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/edu.lope_s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
 ✨ *"Coding is not just about solving problems — it's about creating possibilities."*
