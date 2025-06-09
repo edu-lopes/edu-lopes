@@ -12,7 +12,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" style="margin-right: 20px;" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" style="margin-right: 20px;" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="margin-right: 20px;" alt="JavaScript"/>
