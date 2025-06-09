@@ -12,7 +12,7 @@ Currently pursuing a degree in **Software Engineering**, I’m also deepening my
 
 ## 🛠️ Skills & Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 
@@ -39,8 +39,8 @@ Currently pursuing a degree in **Software Engineering**, I’m also deepening my
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardolbsantos&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolbsantos&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
