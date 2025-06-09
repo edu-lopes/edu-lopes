@@ -43,8 +43,8 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
   <img src="https://raw.githubusercontent.com/edu-lopes/edu-lopes/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=white&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=white&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=blood&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=blood&hide_border=true" width="48%"/>
 </p>
 
 
