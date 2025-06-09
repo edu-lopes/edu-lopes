@@ -29,8 +29,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=gruvbox&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=gruvbox&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=white&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -42,7 +41,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=blood&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=white&hide_border=true" />
 </p>
 
 ---
