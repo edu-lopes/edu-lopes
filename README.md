@@ -39,7 +39,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edu-lopes&theme=blood&hide_border=true" />
+  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=edu-lopes&theme=blood&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </p>
 
 <p align="center">
