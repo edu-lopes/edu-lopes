@@ -39,8 +39,8 @@ Currently pursuing a degree in **Software Engineering**, I’m also deepening my
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=default" width="48%" />
 </p>
 
 ---
