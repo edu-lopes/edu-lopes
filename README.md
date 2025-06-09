@@ -40,8 +40,8 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-lopes&show_icons=true&theme=swift&hide_border=true" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=donut&theme=swift&hide_border=true" width="45%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edu-lopes&rank_icon=github&theme=swift&hide_border=true" width="50%" height="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=swift&hide_border=true" width="45%" height="300px"/>
 </p>
 
 
@@ -50,7 +50,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edu-lopes&theme=blood&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=edu-lopes&theme=swift&hide_border=true&date_format=j%2Fn%5B%2FY%5D&sideNums=E00000&currStreakNum=E00000&currStreakLabel=E00000&fire=E00000" />
 </p>
 
 <p align="center">
