@@ -50,10 +50,6 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edu-lopes&theme=graywhite&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=github-light&hide_border=true" />
 </p>
 
