@@ -52,9 +52,9 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=github-light&hide_border=true" />
 </p>
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/edu-lopes/edu-lopes/output/snake.svg" alt="Snake animation" />
-
+</p>
 ---
 
 ✨ *"Coding is not just about solving problems — it's about creating possibilities."*
