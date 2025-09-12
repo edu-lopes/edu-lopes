@@ -40,9 +40,27 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edu-lopes&rank_icon=github&theme=graywhite&hide_border=true" width="50%" height="300px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=graywhite&hide_border=true" width="45%" height="300px"/>
+
+  <!-- Stats -->
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=edu-lopes&rank_icon=github&theme=graywhite&hide_border=true#gh-light-mode-only" 
+       width="50%" height="300px"/>
+
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=edu-lopes&rank_icon=github&theme=tokyonight&hide_border=true#gh-dark-mode-only" 
+       width="50%" height="300px"/>
+
+  <!-- Top Languages -->
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=graywhite&hide_border=true#gh-light-mode-only" 
+       width="45%" height="300px"/>
+
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" 
+       width="45%" height="300px"/>
+
 </p>
+
 
 
 ---
