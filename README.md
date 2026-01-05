@@ -50,7 +50,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=edu-lopes&theme=github-compact&hide_border=true"
     width="100%"
   />
 </p>
