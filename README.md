@@ -37,11 +37,9 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ---
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img align="center" https://github-readme-stats.vercel.app/api?username=edu-lopes />
-</p>
+![Metrics](https://raw.githubusercontent.com/edu-lopes/github-metrics/main/metrics.svg)
 
 
 
