@@ -40,9 +40,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" 
-       ![Streak](https://streak-stats.demolab.com?user=edu-lopes&theme=graywhite) 
-       width="50%" height="300px"/>
+  <img align="center" https://github-readme-stats.vercel.app/api?username=edu-lopes />
 </p>
 
 
