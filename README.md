@@ -39,7 +39,7 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://raw.githubusercontent.com/edu-lopes/github-metrics/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/edu-lopes/github-metrics/main/github-metrics.svg)
 
 
 
