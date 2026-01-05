@@ -54,9 +54,9 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
     width="100%"
   />
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/edu-lopes/edu-lopes/output/snake.svg" alt="Snake animation" />
-</p>
+
+![Snake](https://raw.githubusercontent.com/edu-lopes/edu-lopes/main/dist/snake-dark.svg)
+
 ---
 
 ✨ *"Coding is not just about solving problems — it's about creating possibilities."*
