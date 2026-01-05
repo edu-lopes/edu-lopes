@@ -41,11 +41,8 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 
 <p align="center">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=edu-lopes&rank_icon=github&theme=graywhite&hide_border=true" 
+       ![Streak](https://streak-stats.demolab.com?user=edu-lopes&theme=graywhite) 
        width="50%" height="300px"/>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-lopes&layout=compact&theme=graywhite&hide_border=true" 
-       width="45%" height="300px"/>
 </p>
 
 
