@@ -25,11 +25,11 @@ jobs:
           outputs: dist/snake-dark.svg
           color_snake: "#58a6ff"
           color_dots: |
-          0:#0d1117   # fundo GitHub
-          1:#161b22   # célula vazia
-          2:#21262d   # baixa atividade
-          3:#30363d   # média atividade
-          4:#484f58   # alta atividade (sem branco)
+            0:#0d1117   # fundo GitHub
+            1:#161b22   # célula vazia
+            2:#21262d   # baixa atividade
+            3:#30363d   # média atividade
+            4:#484f58   # alta atividade (sem branco)
 
       # 3️⃣ Commit automático
       - name: Commit generated snake
