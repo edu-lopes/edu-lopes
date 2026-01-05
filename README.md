@@ -55,7 +55,13 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
   />
 </p>
 
-![Snake](https://raw.githubusercontent.com/edu-lopes/edu-lopes/main/dist/snake-dark.svg)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/edu-lopes/edu-lopes/main/dist/snake-dark.svg"
+    alt="Snake animation"
+    width="90%"
+  />
+</p>
 
 ---
 
