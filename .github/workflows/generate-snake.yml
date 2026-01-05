@@ -13,15 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Clona o repositório (obrigatório)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Gera o snake
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: edu-lopes
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+          outputs: dist/snake-dark.svg
+          color_snake: "#58a6ff"
+          color_dots: |
+            0:#161b22
+            1:#0d1117
+            2:#30363d
+            3:#6e7681
+            4:#c9d1d9
 
-      - name: Push generated files
+      # 3️⃣ Commit automático
+      - name: Commit generated snake
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update snake contribution graph"
