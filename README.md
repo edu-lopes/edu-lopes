@@ -1,48 +1,51 @@
 # 👨‍💻 Eduardo Lopes Barros dos Santos ⚙️
 
-### *Front-end Developer | Exploring the Back-end World*
+### Front-end Developer • Software Engineering Student
 
 ---
 
 👋 **Hello!**  
-I’m Eduardo Lopes, a front-end developer passionate about crafting intuitive and functional digital experiences.  
-Currently studying **Software Engineering** and deepening my knowledge in **back-end development**.
+I’m Eduardo Lopes, a front-end developer focused on building clean, functional, and user-centered interfaces.  
+Currently studying **Software Engineering**, while expanding into **back-end development** to better understand complete systems — from interface to data.
+
+I enjoy transforming ideas into working products and learning how different layers of software communicate.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 What I’m Working With
 
+| Front-end           | Back-end & Data | Tools & Workflow        |
+| ------------------- | --------------- | ----------------------- |
+| HTML5, CSS3         | Node.js         | Git & GitHub            |
+| JavaScript          | C#              | VS Code & Visual Studio |
+| GSAP                | MySQL           | Windows Environment     |
+
+
+## 📌 Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
+  &nbsp;
 </p>
 
-
-
 ---
-
 
 ## 📊 GitHub Metrics
 
 ![Metrics](https://raw.githubusercontent.com/edu-lopes/github-metrics/main/github-metrics.svg)
-
-
-
 
 ---
 
@@ -65,4 +68,4 @@ Currently studying **Software Engineering** and deepening my knowledge in **back
 
 ---
 
-✨ *"Coding is not just about solving problems — it's about creating possibilities."*
+✨ *“Coding is not just about solving problems — it's about creating possibilities.”*
