@@ -14,11 +14,11 @@ I enjoy transforming ideas into working products and learning how different laye
 
 ## 🚀 What I’m Working With
 
-| Front-end           | Back-end & Data | Tools & Workflow        |
-| ------------------- | --------------- | ----------------------- |
-| HTML5, CSS3         | Node.js         | Git & GitHub            |
-| JavaScript          | C#              | VS Code & Visual Studio |
-| GSAP                | MySQL           | Windows Environment     |
+| Front-end               | Back-end & Data | Tools & Workflow        |
+| ----------------------- | --------------- | ----------------------- |
+| HTML5, CSS3             | Node.js         | Git & GitHub            |
+| JavaScript, Typescript  | C#              | VS Code & Visual Studio |
+| React                   | MySQL           | Windows Environment     |
 
 
 ## 📌 Technologies
