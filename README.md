@@ -16,8 +16,8 @@ I enjoy transforming ideas into working products and learning how different laye
 
 | Front-end               | Back-end & Data         | Tools & Workflow        |
 | ----------------------- | ----------------------- | ----------------------- |
-| HTML5, CSS3             | Node.js, C#             | Git & GitHub            |
-| JavaScript, Typescript  | MySQL, MySQL Workbench  | VS Code & Visual Studio |
+| HTML5, CSS3             | Node.js                 | Git & GitHub            |
+| JavaScript, Typescript  | SQL Server, Azure       | VS Code & Visual Studio |
 | React                   | Postman                 | Windows Environment     |
 
 
