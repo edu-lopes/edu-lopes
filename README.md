@@ -23,9 +23,9 @@ I enjoy transforming ideas into working products and learning how different laye
 
 ## 📌 Technologies
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,cs,html,css,tailwind,nodejs,react,expo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,cs,html,css,gsap,nodejs,react,expo,sqlserver,mysql" />
   <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,azure,postman,git,figma,vscode,visualstudio,windows" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,render,azure,postman,git,figma,vscode,visualstudio,powerautomate,windows,debian" />
 </p>
 
 
