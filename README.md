@@ -31,12 +31,6 @@ I enjoy transforming ideas into working products and learning how different laye
 
 ---
 
-## 📊 GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/edu-lopes/github-metrics/main/github-metrics.svg)
-
----
-
 ## 🔥 GitHub Activity
 
 <p align="center">
